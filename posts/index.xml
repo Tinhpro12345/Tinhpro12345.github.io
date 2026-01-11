@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Blog Học Tập Cá Nhân</title>
-    <link>https://Tinhpro12345.github.io/posts/</link>
+    <link>https://tinhpro12345.github.io/posts/</link>
     <description>Recent content in Posts on Blog Học Tập Cá Nhân</description>
     <generator>Hugo -- 0.153.3</generator>
     <language>vi</language>
     <lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://Tinhpro12345.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tinhpro12345.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tổng kết dự án Blog cá nhân</title>
-      <link>https://Tinhpro12345.github.io/posts/ket-luan-du-an-blog/</link>
+      <link>https://tinhpro12345.github.io/posts/ket-luan-du-an-blog/</link>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://Tinhpro12345.github.io/posts/ket-luan-du-an-blog/</guid>
+      <guid>https://tinhpro12345.github.io/posts/ket-luan-du-an-blog/</guid>
       <description>&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;
 &lt;p&gt;Dự án blog giúp áp dụng kiến thức đã học.&lt;/p&gt;
 &lt;h2 id=&#34;kết-quả-đạt-được&#34;&gt;Kết quả đạt được&lt;/h2&gt;
@@ -26,9 +26,9 @@
     </item>
     <item>
       <title>Một số lỗi thường gặp khi dùng Hugo</title>
-      <link>https://Tinhpro12345.github.io/posts/loi-thuong-gap-hugo/</link>
+      <link>https://tinhpro12345.github.io/posts/loi-thuong-gap-hugo/</link>
       <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://Tinhpro12345.github.io/posts/loi-thuong-gap-hugo/</guid>
+      <guid>https://tinhpro12345.github.io/posts/loi-thuong-gap-hugo/</guid>
       <description>&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;
 &lt;p&gt;Người mới dùng Hugo thường gặp lỗi cấu hình.&lt;/p&gt;
 &lt;h2 id=&#34;lỗi-phổ-biến&#34;&gt;Lỗi phổ biến&lt;/h2&gt;
@@ -42,9 +42,9 @@
     </item>
     <item>
       <title>Quản lý nội dung Blog hiệu quả</title>
-      <link>https://Tinhpro12345.github.io/posts/quan-ly-noi-dung-blog/</link>
+      <link>https://tinhpro12345.github.io/posts/quan-ly-noi-dung-blog/</link>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://Tinhpro12345.github.io/posts/quan-ly-noi-dung-blog/</guid>
+      <guid>https://tinhpro12345.github.io/posts/quan-ly-noi-dung-blog/</guid>
       <description>&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;
 &lt;p&gt;Nội dung là yếu tố quan trọng nhất của blog.&lt;/p&gt;
 &lt;h2 id=&#34;giải-pháp&#34;&gt;Giải pháp&lt;/h2&gt;
@@ -58,9 +58,9 @@
     </item>
     <item>
       <title>So sánh Hugo và WordPress</title>
-      <link>https://Tinhpro12345.github.io/posts/hugo-vs-wordpress/</link>
+      <link>https://tinhpro12345.github.io/posts/hugo-vs-wordpress/</link>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://Tinhpro12345.github.io/posts/hugo-vs-wordpress/</guid>
+      <guid>https://tinhpro12345.github.io/posts/hugo-vs-wordpress/</guid>
       <description>&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;
 &lt;p&gt;Hugo và WordPress đều dùng để xây dựng blog.&lt;/p&gt;
 &lt;h2 id=&#34;so-sánh&#34;&gt;So sánh&lt;/h2&gt;
@@ -73,9 +73,9 @@
     </item>
     <item>
       <title>Tìm hiểu Theme trong Hugo</title>
-      <link>https://Tinhpro12345.github.io/posts/tao-theme-hugo/</link>
+      <link>https://tinhpro12345.github.io/posts/tao-theme-hugo/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://Tinhpro12345.github.io/posts/tao-theme-hugo/</guid>
+      <guid>https://tinhpro12345.github.io/posts/tao-theme-hugo/</guid>
       <description>&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;
 &lt;p&gt;Theme giúp định hình giao diện blog.&lt;/p&gt;
 &lt;h2 id=&#34;papermod&#34;&gt;PaperMod&lt;/h2&gt;
@@ -85,9 +85,9 @@
     </item>
     <item>
       <title>Cấu trúc thư mục trong Hugo</title>
-      <link>https://Tinhpro12345.github.io/posts/cau-truc-hugo/</link>
+      <link>https://tinhpro12345.github.io/posts/cau-truc-hugo/</link>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://Tinhpro12345.github.io/posts/cau-truc-hugo/</guid>
+      <guid>https://tinhpro12345.github.io/posts/cau-truc-hugo/</guid>
       <description>&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;
 &lt;p&gt;Hugo tổ chức dự án theo cấu trúc rõ ràng.&lt;/p&gt;
 &lt;h2 id=&#34;các-thư-mục-chính&#34;&gt;Các thư mục chính&lt;/h2&gt;
@@ -102,9 +102,9 @@
     </item>
     <item>
       <title>Git là gì?</title>
-      <link>https://Tinhpro12345.github.io/posts/git-la-gi/</link>
+      <link>https://tinhpro12345.github.io/posts/git-la-gi/</link>
       <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://Tinhpro12345.github.io/posts/git-la-gi/</guid>
+      <guid>https://tinhpro12345.github.io/posts/git-la-gi/</guid>
       <description>&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;
 &lt;p&gt;Git là hệ thống quản lý phiên bản phổ biến nhất hiện nay.&lt;/p&gt;
 &lt;h2 id=&#34;vai-trò&#34;&gt;Vai trò&lt;/h2&gt;
@@ -118,9 +118,9 @@
     </item>
     <item>
       <title>GitHub Pages là gì?</title>
-      <link>https://Tinhpro12345.github.io/posts/github-pages/</link>
+      <link>https://tinhpro12345.github.io/posts/github-pages/</link>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://Tinhpro12345.github.io/posts/github-pages/</guid>
+      <guid>https://tinhpro12345.github.io/posts/github-pages/</guid>
       <description>&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;
 &lt;p&gt;GitHub Pages cho phép triển khai website tĩnh miễn phí từ GitHub.&lt;/p&gt;
 &lt;h2 id=&#34;cách-hoạt-động&#34;&gt;Cách hoạt động&lt;/h2&gt;
@@ -134,9 +134,9 @@
     </item>
     <item>
       <title>Markdown là gì?</title>
-      <link>https://Tinhpro12345.github.io/posts/markdown-la-gi/</link>
+      <link>https://tinhpro12345.github.io/posts/markdown-la-gi/</link>
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://Tinhpro12345.github.io/posts/markdown-la-gi/</guid>
+      <guid>https://tinhpro12345.github.io/posts/markdown-la-gi/</guid>
       <description>&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;
 &lt;p&gt;Markdown là ngôn ngữ đánh dấu nhẹ, giúp viết nội dung nhanh và dễ đọc.&lt;/p&gt;
 &lt;h2 id=&#34;ưu-điểm&#34;&gt;Ưu điểm&lt;/h2&gt;
@@ -150,9 +150,9 @@
     </item>
     <item>
       <title>Xây dựng Blog cá nhân với Hugo</title>
-      <link>https://Tinhpro12345.github.io/posts/bai-viet-dau-tien/</link>
+      <link>https://tinhpro12345.github.io/posts/bai-viet-dau-tien/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://Tinhpro12345.github.io/posts/bai-viet-dau-tien/</guid>
+      <guid>https://tinhpro12345.github.io/posts/bai-viet-dau-tien/</guid>
       <description>&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;
 &lt;p&gt;Bài viết trình bày quá trình xây dựng blog cá nhân sử dụng Hugo.&lt;/p&gt;
 &lt;h2 id=&#34;công-nghệ-sử-dụng&#34;&gt;Công nghệ sử dụng&lt;/h2&gt;
