@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blog on Blog Học Tập Cá Nhân</title>
-    <link>https://tinhpro12345.github.io/tags/blog/</link>
+    <link>https://Tinhpro12345.github.io/tags/blog/</link>
     <description>Recent content in Blog on Blog Học Tập Cá Nhân</description>
     <generator>Hugo -- 0.153.3</generator>
     <language>vi</language>
     <lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://tinhpro12345.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Tinhpro12345.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quản lý nội dung Blog hiệu quả</title>
-      <link>https://tinhpro12345.github.io/posts/quan-ly-noi-dung-blog/</link>
+      <link>https://Tinhpro12345.github.io/posts/quan-ly-noi-dung-blog/</link>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://tinhpro12345.github.io/posts/quan-ly-noi-dung-blog/</guid>
+      <guid>https://Tinhpro12345.github.io/posts/quan-ly-noi-dung-blog/</guid>
       <description>&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;
 &lt;p&gt;Nội dung là yếu tố quan trọng nhất của blog.&lt;/p&gt;
 &lt;h2 id=&#34;giải-pháp&#34;&gt;Giải pháp&lt;/h2&gt;
@@ -26,9 +26,9 @@
     </item>
     <item>
       <title>Xây dựng Blog cá nhân với Hugo</title>
-      <link>https://tinhpro12345.github.io/posts/bai-viet-dau-tien/</link>
+      <link>https://Tinhpro12345.github.io/posts/bai-viet-dau-tien/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://tinhpro12345.github.io/posts/bai-viet-dau-tien/</guid>
+      <guid>https://Tinhpro12345.github.io/posts/bai-viet-dau-tien/</guid>
       <description>&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;
 &lt;p&gt;Bài viết trình bày quá trình xây dựng blog cá nhân sử dụng Hugo.&lt;/p&gt;
 &lt;h2 id=&#34;công-nghệ-sử-dụng&#34;&gt;Công nghệ sử dụng&lt;/h2&gt;

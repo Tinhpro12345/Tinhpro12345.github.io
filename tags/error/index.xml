@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Error on Blog Học Tập Cá Nhân</title>
-    <link>https://tinhpro12345.github.io/tags/error/</link>
+    <link>https://Tinhpro12345.github.io/tags/error/</link>
     <description>Recent content in Error on Blog Học Tập Cá Nhân</description>
     <generator>Hugo -- 0.153.3</generator>
     <language>vi</language>
     <lastBuildDate>Thu, 09 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://tinhpro12345.github.io/tags/error/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Tinhpro12345.github.io/tags/error/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Một số lỗi thường gặp khi dùng Hugo</title>
-      <link>https://tinhpro12345.github.io/posts/loi-thuong-gap-hugo/</link>
+      <link>https://Tinhpro12345.github.io/posts/loi-thuong-gap-hugo/</link>
       <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://tinhpro12345.github.io/posts/loi-thuong-gap-hugo/</guid>
+      <guid>https://Tinhpro12345.github.io/posts/loi-thuong-gap-hugo/</guid>
       <description>&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;
 &lt;p&gt;Người mới dùng Hugo thường gặp lỗi cấu hình.&lt;/p&gt;
 &lt;h2 id=&#34;lỗi-phổ-biến&#34;&gt;Lỗi phổ biến&lt;/h2&gt;
