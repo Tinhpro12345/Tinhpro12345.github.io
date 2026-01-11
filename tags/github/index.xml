@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Github on Blog Học Tập Cá Nhân</title>
+    <link>https://tinhpro12345.github.io/tags/github/</link>
+    <description>Recent content in Github on Blog Học Tập Cá Nhân</description>
+    <generator>Hugo -- 0.153.3</generator>
+    <language>vi</language>
+    <lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://tinhpro12345.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub Pages là gì?</title>
+      <link>https://tinhpro12345.github.io/posts/github-pages/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://tinhpro12345.github.io/posts/github-pages/</guid>
+      <description>&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;
+&lt;p&gt;GitHub Pages cho phép triển khai website tĩnh miễn phí từ GitHub.&lt;/p&gt;
+&lt;h2 id=&#34;cách-hoạt-động&#34;&gt;Cách hoạt động&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Đẩy code lên GitHub&lt;/li&gt;
+&lt;li&gt;Kích hoạt Pages&lt;/li&gt;
+&lt;li&gt;Website chạy online&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;kết-luận&#34;&gt;Kết luận&lt;/h2&gt;
+&lt;p&gt;GitHub Pages rất phù hợp để host blog học tập.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

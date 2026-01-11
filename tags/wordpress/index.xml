@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wordpress on Blog Học Tập Cá Nhân</title>
+    <link>https://tinhpro12345.github.io/tags/wordpress/</link>
+    <description>Recent content in Wordpress on Blog Học Tập Cá Nhân</description>
+    <generator>Hugo -- 0.153.3</generator>
+    <language>vi</language>
+    <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://tinhpro12345.github.io/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>So sánh Hugo và WordPress</title>
+      <link>https://tinhpro12345.github.io/posts/hugo-vs-wordpress/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://tinhpro12345.github.io/posts/hugo-vs-wordpress/</guid>
+      <description>&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;
+&lt;p&gt;Hugo và WordPress đều dùng để xây dựng blog.&lt;/p&gt;
+&lt;h2 id=&#34;so-sánh&#34;&gt;So sánh&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Hugo: nhanh, bảo mật&lt;/li&gt;
+&lt;li&gt;WordPress: linh hoạt, dễ dùng&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;kết-luận&#34;&gt;Kết luận&lt;/h2&gt;
+&lt;p&gt;Hugo phù hợp blog học tập và cá nhân.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

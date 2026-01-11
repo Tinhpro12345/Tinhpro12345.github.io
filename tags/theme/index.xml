@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Theme on Blog Học Tập Cá Nhân</title>
+    <link>https://tinhpro12345.github.io/tags/theme/</link>
+    <description>Recent content in Theme on Blog Học Tập Cá Nhân</description>
+    <generator>Hugo -- 0.153.3</generator>
+    <language>vi</language>
+    <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://tinhpro12345.github.io/tags/theme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tìm hiểu Theme trong Hugo</title>
+      <link>https://tinhpro12345.github.io/posts/tao-theme-hugo/</link>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://tinhpro12345.github.io/posts/tao-theme-hugo/</guid>
+      <description>&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;
+&lt;p&gt;Theme giúp định hình giao diện blog.&lt;/p&gt;
+&lt;h2 id=&#34;papermod&#34;&gt;PaperMod&lt;/h2&gt;
+&lt;p&gt;PaperMod là theme phổ biến, gọn nhẹ và hiện đại.&lt;/p&gt;
+&lt;h2 id=&#34;kết-luận&#34;&gt;Kết luận&lt;/h2&gt;
+&lt;p&gt;Chọn theme phù hợp giúp blog chuyên nghiệp hơn.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
